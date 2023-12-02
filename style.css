@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+    background-color:lightcoral;
+    height:100px;
+}
+
+nav a{
+    text-decoration:none;
+    border: white 2px solid;
+    border-radius:20%;
+    margin:30px;
+    padding:10px;
+    color:black;
+}
+
+.pozdr{
+    font-size:20px;
+}
+
+.pozdr1{
+    font-size:20px;
+}
+
+.kartinka1{
+    height: 300px;
+}
+
+.kartinka{
+    height:250px;
+}
